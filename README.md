@@ -1,3 +1,6 @@
+![CI](https://github.com/BharatAddress/integrations-bharatmaps/actions/workflows/ci.yml/badge.svg)
+![CodeQL](https://github.com/BharatAddress/integrations-bharatmaps/actions/workflows/codeql.yml/badge.svg)
+
 # Integrations: Bharat Maps
 
 Guides and examples for integrating with Bharat Maps (NIC).
